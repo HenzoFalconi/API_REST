@@ -1,10 +1,13 @@
 # 🎬 API REST CRUD - Persistência de Dados (FastAPI)
 
-Projeto de exemplo desenvolvido com **FastAPI**, simulando persistência de dados em memória.
+Este é um projeto de exemplo desenvolvido com **FastAPI**, simulando a persistência de dados em memória para operações de um CRUD completo.
 
-## ⚙️ Como executar
+## 📋 Sobre o Projeto
+A API foi construída para demonstrar conhecimentos em desenvolvimento backend com Python, utilizando rotas assíncronas e documentação automática.
 
-1. Instale as dependências:
+## ⚙️ Como Executar
+Siga os passos abaixo para rodar o projeto localmente:
+
+1. **Instale as dependências:**
    ```bash
    pip install -r requirements.txt
-python -m uvicorn main:app --reload
